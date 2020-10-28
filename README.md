@@ -1,4 +1,4 @@
 {
-"Version":"2.5",
+"Version":"2.6",
 "Url":"https://github.com/jayvie07/cdolite/blob/main/Configs.zip?raw=true"
 }
